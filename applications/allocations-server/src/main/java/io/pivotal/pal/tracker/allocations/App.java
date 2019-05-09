@@ -10,7 +10,7 @@ import org.springframework.web.client.RestOperations;
 import java.util.TimeZone;
 
 // Allocations
-//werwer 
+//werwer
 @SpringBootApplication
 @ComponentScan({"io.pivotal.pal.tracker.allocations", "io.pivotal.pal.tracker.restsupport"})
 public class App {
